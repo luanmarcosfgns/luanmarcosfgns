@@ -1,4 +1,4 @@
-[![card](https://github-readme-stats.vercel.app/api?username=luanmarcosfgns&theme=default)](https://github.com/luanmacosfgns/)
+[![card](https://github-readme-stats.vercel.app/api?username=luanmarcosfgns&theme=default)](https://github.com/luanmarcosfgns/)
 [![luanmarcosfgns](https://github-readme-stats.vercel.app/api/top-langs/?username=luanmarcosfgns&hide=html&layout=compact&theme=default)](https://github.com/luanmarcosfgns/)
 <br>
 ## 🚀 Minhas Skills
