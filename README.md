@@ -1,5 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmarcosfgns&include_all_commits=true&count_private=true)
-[![luanmarcosfgns](https://github-readme-stats.vercel.app/api/top-langs/?username=luanmarcosfgns&hide=html&layout=compact&theme=default)](https://github.com/luanmarcosfgns/)
 <br>
 ## 🚀 Minhas Skills
 <div style="width:100%;">
